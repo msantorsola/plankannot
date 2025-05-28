@@ -31,18 +31,20 @@ rename_ordo_to_order <- function(df) {
 annotate_user_dataset <- function(dataset_path, db_name, db_dir = "data/", base_output_dir = "annotated_results") {
     input_name <- file_path_sans_ext(basename(dataset_path))
     ds <- read_tsv(dataset_path, show_col_types = FALSE)
-    db <- readRDS(file.path(db_dir, paste0(db_name, ".rds")))
+
+    # === NEW: load internal DB from inst/db/
+    db_path <- system.file("db", paste0(db_name, ".rds"), package = "plankannot")
+    if (db_path == "") stop("Database not found in package: ", db_name)
+    db <- readRDS(db_path)
+
     ds <- rename_ordo_to_order(ds)
     db <- rename_ordo_to_order(db)
 
-    # use group or species name (or last item of a lineage without columns --> to add)
     match_col <- if (db_name == "major") "Group" else "Species_Name"
     if (!match_col %in% names(db)) {
         stop(paste("Missing expected match column in DB:", match_col))
     }
 
-    # clean data, remove typos like commas and space  db <- db %>%
-    #mutate(.match_value = clean_taxon(.data[[match_col]]))
     db$.match_value <- clean_taxon(db[[match_col]])
 
     output_rows <- vector("list", nrow(ds))
@@ -62,12 +64,12 @@ annotate_user_dataset <- function(dataset_path, db_name, db_dir = "data/", base_
             if (nrow(matched_row) > 0) {
                 output_rows[[i]] <- bind_cols(
                     ds_row,
-                    matched_row[1, setdiff(names(matched_row), ".match_value"), drop = FALSE]
+                    matched_row[1, setdiff(names(matched_row), ".match_value"), drop = FALSE],
+                    tibble(Matched_Rank = col)
                 )
                 matched <- TRUE
                 break
             }
-
         }
 
         if (!matched) {
@@ -77,12 +79,11 @@ annotate_user_dataset <- function(dataset_path, db_name, db_dir = "data/", base_
 
     final <- bind_rows(output_rows)
 
-    # save output --> annotated input tables, one for each db
     output_dir <- file.path(base_output_dir, db_name)
     dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
     output_file <- file.path(output_dir, paste0(input_name, "_", db_name, "_annotated.tsv"))
     write_tsv(final, output_file)
 
-    message(paste("Saved file:", output_file))
+    message(paste("Saved annotated file:", output_file))
 }
 
