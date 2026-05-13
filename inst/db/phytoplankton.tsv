@@ -1,0 +1,286 @@
+Species_Name	Phylum	Class	Taxonomic group	Shape	Elongation	Size	Group	Trophism	MFT	Mode of feeding	ability to use NO3 	Harmful
+Achnanthes	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Akashiwo_sanguinea	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	CM	engulfment	yes	HAB
+Amphidinium_carterae	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	CM	not recorded	yes	HAB
+Amphidinium	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-ML-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Amphiprora	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Amphisolenia_bidentata	Dinophyta	Dinophyceae	Dinoflagellates	Cylinder	Elongated	length>100	DN-XL-12E	mixotroph	eSNCM	not recorded	not recorded	no_harmful
+Amphora	Ochrophyta	Bacillariophyceae	Diatoms	Cymbelloid	Elongated	20<length<100	D-L-14E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Ankistrodesmus	Chlorophyta	Chlorophyceae	Others	Cylinder	No	20<length<100	O-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Astasia	Euglenophyta	Euglenophyceae	Others	Half sphere_ellipsoid_cone	No	10<length<20	O-M-19	autotroph	autotroph	autotroph	autotroph	no_harmful
+Asterionella_formosa	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	20<length<100	D-L-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Asterionellopsis_glacialis	Ochrophyta	Bacillariophyceae	Diatoms	Prism triangular base	Elongated	20<length<100	D-L-9E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Asteromphalus_flabellatus	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Attheya_longicornis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Attheya	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Auliscus_sculptus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacillaria_paxillifera	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	length>100	D-XL-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacillaria	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	20<length>100	D-LXL-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacteriastrum_elongatum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacteriastrum_comosum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacteriastrum_delicatulum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	10<length<20	D-M-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacteriastrum_furcatum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	10<length<20	D-M-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacteriastrum_hyalinum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	10>length	D-S-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bacteriastrum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	10>length<100	D-SML-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bellerochea_horologicalis	Ochrophyta	Mediophyceae	Diatoms	Prism triangular base	No	20<length<100	D-L-9	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bellerochea	Ochrophyta	Mediophyceae	Diatoms	Prism triangular base	No	20<length<100	D-L-9	autotroph	autotroph	autotroph	autotroph	no_harmful
+Biddulphia_biddulphiana	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	length>100	D-XL-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Biddulphia_sinensis	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	length>100	D-XL-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Biddulphia	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length>100	D-LXL-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Bleakeleya_notata	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	length>100	D-XL-10CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Blixaea_quinquecornis	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17	mixotroph	eSNCM	not recorded	not recorded	no_harmful
+Boekelovia	Ochrophyta	Chrysophyceae	Others	Cone	No	10>length	O-S-1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Campylodiscus_biangulatus	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Campylodiscus	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Carteria	Chlorophyta	Chlorophyceae	Others	Sphere	No	10<length<20	O-M-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cerataulina_pelagica	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	HAB_non-toxigenic
+Cerataulina	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Ceratocorys_horrida	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere	No	20<length<100	DN-L-6	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_affinis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_tetrastichon	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_furcellatus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_holsaticus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_tortissimus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_coarctatus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_compressus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_constrictus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_costatus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_curvisetus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_decipiens	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_didymus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_didymus_var.anglicus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_laciniosus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_laevis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_lorenzianus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_messanensis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_peruvianus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_pseudocurvisetus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_simplex	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10>length<100	D-SML-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_tenuissimus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_throndsenii	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10>length	D-S-SP1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chaetoceros_wighamii	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	10>length	D-S-SP1	autotroph	autotroph	autotroph	autotroph	HAB_non-toxigenic
+Chlamydomonas	Chlorophyta	Chlorophyceae	Others	Sphere	No	10<length<20	O-M-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chlorella	Chlorophyta	Trebouxiophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Chrysophyceae	Ochrophyta	Chrysophyceae	Others	Prolate spheroid	No	10>length	O-S-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Climacodium_frauenfeldianum	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	length>100	D-XL-10C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Climacosphenia	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	length>100	D-XL-10CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cocconeis_scutellum	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cocconeis	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Coelastrum	Chlorophyta	Chlorophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Coelosphaerium	Cyanobacteria	Cyanophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Corythodinium_tesselatum	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Coscinodiscus_argus	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	length>100	D-XL-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Coscinodiscus_perforatusvar.cellulosus	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	length>100	D-XL-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Coscinodiscus	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length>100	D-LXL-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cosmarium_laeve	Charophyta	Zygnematophyceae	Others	Double ellipsoid	No	20<length<100	O-L-16	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cosmarium_margaritiferum	Charophyta	Zygnematophyceae	Others	Double ellipsoid	No	20<length<100	O-L-16	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cosmarium	Charophyta	Zygnematophyceae	Others	Double ellipsoid	No	20<length<100	O-L-16	autotroph	autotroph	autotroph	autotroph	no_harmful
+Crucigenia	Chlorophyta	Trebouxiophyceae	Others	Cube	No	10>length	O-S-3	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cryptomonas_ovata	Cryptophyta	Cryptophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cryptophyceae	Cryptophyta	Cryptophyceae	Others	Half sphere_ellipsoid_cone	No	10>length<20	O-SM-19	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cyclotella_litoralis	Ochrophyta	Mediophyceae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cyclotella_meneghiniana	Ochrophyta	Mediophyceae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cyclotella	Ochrophyta	Mediophyceae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cylindrotheca_closterium	Ochrophyta	Bacillariophyceae	Diatoms	Prolate spheroid	Elongated	length>100	D-XL-13CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Cymatosira	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	No	length>100	D-XL-8	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dactyliosolen_fragilissimus	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dactyliosolen	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Desmodesmus_armatus	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Desmodesmus_communis	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Desmodesmus_flavescens	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10>length	O-S-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Desmodesmus	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10>length<20	O-SM-13	NA	NA	NA	NA	NA
+Diatoma	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dictyocha_fibula	Ochrophyta	Dictyochophyceae	Others	Sphere	No	10<length<20	O-M-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dictyocha	Ochrophyta	Dictyochophyceae	Others	Sphere	No	10<length<20	O-M-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dictyosphaerium	Chlorophyta	Trebouxiophyceae	Others	Prolate spheroid	No	10>length	O-S-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dinophysis_acuminata	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	pSNCM	feeding tube	no	HAB
+Dinophysis_caudata	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	20<length<100	DN-L-19	mixotroph	pSNCM	feeding tube	not recorded	HAB
+Dinophysis_hastata	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Dinophysis	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Diploneis_crabro	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Diploneis	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Entomoneis_alata	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Eremosphaera	Chlorophyta	Trebouxiophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Eucampia	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Euglena_proxima_variabilis	Euglenophyta	Euglenophyceae	Others	Half sphere_ellipsoid_cone	Elongated	20<length<100	O-L-19E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Euglena	Euglenophyta	Euglenophyceae	Others	Half sphere_ellipsoid_cone	Elongated	20<length<100	O-L-19E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Eunotia_depressa	Ochrophyta	Bacillariophyceae	Diatoms	Prism Sickle-shaped	No	20<length<100	D-L-11	autotroph	autotroph	autotroph	autotroph	no_harmful
+Fragilaria	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	length>100	D-XL-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Fragilariopsis	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Genicularina_elegans	Charophyta	Zygnematophyceae	Others	Cylinder	Elongated	length>100	O-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Glenodinium	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Gloeocystis	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10>length	O-S-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Gomphosphaeria_aponina	Cyanobacteria	Cyanophyceae	Others	Sphere	No	20<length<100	O-L-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Gonyaulax_polygramma	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17	mixotroph	CM	engulfment	yes	HAB_non-toxigenic
+Gonyaulax	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17	autotroph	autotroph	autotroph	autotroph	no_harmful
+Grammatophora_serpentina	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Grammatophora_marina	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Grammatophora_oceanica	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Grammatophora	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Guinardia_delicatula	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Guinardia_flaccida	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Guinardia_striata	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	HAB_non-toxigenic
+Guinardia	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	NA
+Gymnodinium	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	20<length<100	DN-L-5E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Gyrodinium	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	length>100	DN-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Gyrosigma	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Hemiaulus_hauckii	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Hemiaulus_membranaceus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Hemiaulus_sinensis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Hemiaulus	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Heterocapsa_ovata	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	10<length<20	DN-M-17	autotroph	autotroph	autotroph	autotroph	HAB
+Heterocapsa_pygmaea_psammophila	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	10<length<20	DN-M-17	autotroph	autotroph	autotroph	autotroph	no_harmful
+Heterocapsa_rotundata	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	10<length<20	DN-M-17	mixotroph	CM	engulfment	yes	no_harmful
+Heterocapsa	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	10<length<20	DN-M-17	autotroph	autotroph	autotroph	autotroph	no_harmful
+Histioneis_costata	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Histioneis_elongata	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	eSNCM	not recorded	not recorded	no_harmful
+Hobaniella_longicruris	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Kirchneriella_obesa	Chlorophyta	Chlorophyceae	Others	Double cone	No	10<length<20	O-M-17	autotroph	autotroph	autotroph	autotroph	no_harmful
+Kirchneriella	Chlorophyta	Chlorophyceae	Others	Double cone	No	10<length<20	O-M-17	autotroph	autotroph	autotroph	autotroph	no_harmful
+Lemmermannia_tetrapedia	Chlorophyta	Trebouxiophyceae	Others	Cube	No	10>length	O-S-3	autotroph	autotroph	autotroph	autotroph	no_harmful
+Lemmermanniatriangularis	Chlorophyta	Trebouxiophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Leptocylindrus_danicus	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Leptocylindrus_minimus	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Leptocylindrus	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Leucocryptos_marina	Cryptophyta	Katablepharidophyceae	Others	Half sphere_ellipsoid_cone	No	10>length	O-S-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Licmophora	Ochrophyta	Bacillariophyceae	Diatoms	Gomphonemoid	Elongated	length>100	D-XL-15E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Licmophora_flabellata	Ochrophyta	Bacillariophyceae	Diatoms	Gomphonemoid	Elongated	length>100	D-XL-15E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Lithodesmium_undulatum	Ochrophyta	Mediophyceae	Diatoms	Prism triangular base	Elongated	20<length<100	D-L-9E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Lohmannosphaera	Haptophyta	Prymnesiophyceae	Others	Prolate spheroid	No	20<length<100	O-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Luticola	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	10<length<20	D-M-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Melosira_arctica	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Melosira_nummuloides	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Melosira	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Melosira_varians	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Membraneis_challengeri	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Meringosphaera	Ochrophyta	Xanthophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Meuniera_membranacea	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Monoraphidium_contortum	Chlorophyta	Chlorophyceae	Others	Cylinder	No	20<length<100	O-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Monoraphidium_griffithii	Chlorophyta	Chlorophyceae	Others	Cylinder	No	20<length<100	O-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Navicula	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Navicula_transitans	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Neglectellasolitaria	Chlorophyta	Trebouxiophyceae	Others	Prolate spheroid	No	20<length<100	O-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Nephrocytium_agardhianum	Chlorophyta	Trebouxiophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Nitzschia_acicularis	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Nitzschia_sigma	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Nitzschia_incerta	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Nitzschia_sigmoidea	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Nitzschia	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oblea	Dinophyta	Dinophyceae	Dinoflagellates	Sphere	No	20<length<100	DN-L-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Odontella	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Ollicola_vangoorii	Ochrophyta	Chrysophyceae	Others	Prolate spheroid	No	10>length	O-S-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Ollicola	Ochrophyta	Chrysophyceae	Others	Prolate spheroid	No	10>length	O-S-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oocystis	Chlorophyta	Trebouxiophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Ornithocercus_thumii_steinii	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere	No	20<length<100	DN-L-6	autotroph	autotroph	autotroph	autotroph	no_harmful
+Ostreopsis_ovata	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	CM	not recorded	yes	HAB
+Ostreopsis	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oxytoxum_tesselatum	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oxytoxum_crassum	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oxytoxum_longiceps	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oxytoxum_scolopax	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oxytoxum	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Oxytoxum_variabile	Dinophyta	Dinophyceae	Dinoflagellates	Prolate spheroid	No	20<length<100	DN-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Paralia	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Paralia_sulcata	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pediastrum	Chlorophyta	Chlorophyceae	Others	Prism elliptic base	No	20<length<100	O-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Peridiniopsis_penardiformis	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Phaeocystis_pouchetii	Haptophyta	Coccolithophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	HAB
+Phalacroma_rotundatum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	HAB
+Pinnularia_lata	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	No	20<length<100	D-L-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pinnularia	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	No	20<length<100	D-L-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Plagioselmis	Cryptophyta	Cryptophyceae	Others	Half sphere_ellipsoid_cone	No	10>length	O-S-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Plagiotropis_lepidoptera	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	length>100	D-XL-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Plagiotropis	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	Elongated	10<length>100	D-MXL-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pleurosigma_angulatum	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pleurosigma	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	Elongated	length>100	D-XL-8E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pleurosira_laevis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Podocystis	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Podolampas_palmipes	Dinophyta	Dinophyceae	Dinoflagellates	Cone	Elongated	20<length<100	DN-L-1E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Podolampas	Dinophyta	Dinophyceae	Dinoflagellates	Cone	Elongated	20<length<100	DN-L-1E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Podosira_stelligera	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	No	20<length<100	D-L-12C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Preperidinium_meunieri	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Proboscia_indica	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Prorocentrum_maximum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Prorocentrum_compressum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Prorocentrum_cordatum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	CM	engulfment*	yes	HAB
+Prorocentrum_laevis_faustiae	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Prorocentrum_lima	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	mixotroph	CM	not recorded	yes	HAB
+Prorocentrum_micans	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	20<length<100	DN-L-19	mixotroph	CM	engulfment*	yes	greylist
+Prorocentrum_rathymum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Prorocentrum_scutellum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Prorocentrum	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	No	20<length<100	DN-L-5-19	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_bipes	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	10<length<20	DN-M-17C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_breve	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_crassipes	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_divergens	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	20<length<100	DN-L-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_pallidum	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	20<length<100	DN-L-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_conicum	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_divergens	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	length>100	DN-XL-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_ovum_sfericum	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length>100	DN-MLXL-17C-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Protoperidinium_steinii	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	No	20<length<100	DN-L-17C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Psammothidium	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pseudo-nitzschia_pungensmultiseries	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	No	length>100	D-XL-SP2	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pseudo-nitzschia_seriata	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	No	length>100	D-XL-SP2	autotroph	autotroph	autotroph	autotroph	HAB
+Pseudo-nitzschia	Ochrophyta	Bacillariophyceae	Diatoms	Prism parallelogram base	No	length>100	D-XL-SP2	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pseudopediastrum_boryanum	Chlorophyta	Chlorophyceae	Others	Prism elliptic base	No	20<length<100	O-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pseudosolenia_calcar-avis	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pyramimonas	Chlorophyta	Pyramimonadophyceae	Others	Cone	No	10>length	O-S-1	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pyrocystis_hamulus	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	length>100	DN-XL-5E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Pyrocystis_obtusa	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	20<length<100	DN-L-5E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Rhabdonema_adriaticum	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	length>100	D-XL-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Rhizosolenia_bergonii	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Rhizosolenia_imbricata	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Rhizosolenia	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	HAB_non-toxigenic
+Rhodomonas	Cryptophyta	Cryptophyceae	Others	Ellipsoid	No	10<length<20	O-M-5	autotroph	autotroph	autotroph	autotroph	no_harmful
+Rhoicosphenia_abbreviata	Ochrophyta	Bacillariophyceae	Diatoms	Gomphonemoid	Elongated	20<length<100	D-L-15	autotroph	autotroph	autotroph	autotroph	no_harmful
+Scenedesmus	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10>length<20	O-SM-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Schroederia_setigera	Chlorophyta	Chlorophyceae	Others	Double cone	No	10<length<20	O-M-17	autotroph	autotroph	autotroph	autotroph	no_harmful
+Scrippsiella	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	20<length<100	DN-L-19	autotroph	autotroph	autotroph	autotroph	no_harmful
+Scrippsiella_acuminata	Dinophyta	Dinophyceae	Dinoflagellates	Half sphere_ellipsoid_cone	No	20<length<100	DN-L-19	autotroph	autotroph	autotroph	autotroph	no_harmful
+Skeletonema_costatum	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Skeletonema	Ochrophyta	Mediophyceae	Diatoms	Cylinder	Elongated	20<length<100	D-L-12CE	autotroph	autotroph	autotroph	autotroph	NA
+Staurastrum	Charophyta	Zygnematophyceae	Others	Double truncated cone	No	20<length<100	O-L-18	autotroph	autotroph	autotroph	autotroph	no_harmful
+Stephanopyxis_palmeriana	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Striatella_unipunctata	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	length>100	D-XL-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Sundstroemia_setigera	Ochrophyta	Coscinodiscophycidae	Diatoms	Cylinder	Elongated	length>100	D-XL-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Surirella	Ochrophyta	Bacillariophyceae	Diatoms	Prism elliptic base	No	20<length<100	D-L-10	autotroph	autotroph	autotroph	autotroph	no_harmful
+Synedra	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	20<length<100	D-L-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Syracosphaera_pulchra	Haptophyta	Coccolithophyceae	Others	Sphere	No	20<length<100	O-L-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tabellaria_fenestrata	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	No	20<length<100	D-L-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tabellaria	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	No	20<length>100	D-LXL-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Teleaulax_amphioxeia	Cryptophyta	Cryptophyceae	Others	Half sphere_ellipsoid_cone	No	10>length	O-S-19C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Terpsinoë_musica	Ochrophyta	Coscinodiscophycidae	Diatoms	Parallelepiped	No	20<length<100	D-L-7C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Terpsinoë	Ochrophyta	Coscinodiscophycidae	Diatoms	Parallelepiped	No	20<length<100	D-L-7C	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetradesmus_lagerheimii	Chlorophyta	Chlorophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetraëdron_caudatum	Chlorophyta	Chlorophyceae	Others	Parallelepiped	No	10<length<20	O-M-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetraëdron_triangulare	Chlorophyta	Chlorophyceae	Others	Parallelepiped	No	10<length<20	O-M-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetraedron_trigonum	Chlorophyta	Chlorophyceae	Others	Pyramid	No	10<length<20	O-M-2	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetraëdron_minimum	Chlorophyta	Chlorophyceae	Others	Parallelepiped	No	10>length	O-S-7	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetraselmis	Chlorophyta	Chlorodendrophyceae	Others	Prolate spheroid	No	10<length<20	O-M-13	autotroph	autotroph	autotroph	autotroph	HAB_non-toxigenic
+Tetrastrum_glabrum	Chlorophyta	Chlorophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tetrastrum	Chlorophyta	Chlorophyceae	Others	Sphere	No	10>length	O-S-4	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassionema_frauenfeldii	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	length>100	D-XL-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassionema_nitzschioides	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	20<length<100	D-L-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassionema_pseudonitzschioides	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	20<length<100	D-L-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassionema	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	20<length>100	D-LXL-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassionema_synedriforme	Ochrophyta	Bacillariophyceae	Diatoms	Parallelepiped	Elongated	length>100	D-XL-7E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassiosira_eccentrica	Ochrophyta	Mediophyceae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassiosira	Ochrophyta	Mediophyceae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Thalassiosiraceae	Ochrophyta	Mediophyceae	Diatoms	Cylinder	No	20<length<100	D-L-12	autotroph	autotroph	autotroph	autotroph	no_harmful
+Toxarium_undulatum	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	length>100	D-XL-10CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Trachelomonas	Euglenophyta	Euglenophyceae	Others	Ellipsoid	Elongated	20<length<100	O-L-5E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Triceratium_favus	Ochrophyta	Coscinodiscophycidae	Diatoms	Prism triangular base	No	length>100	D-XL-9	autotroph	autotroph	autotroph	autotroph	no_harmful
+Trichodesmium_erythraeum	Cyanobacteria	Cyanophyceae	Others	Cylinder	Elongated	20<length<100	O-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Trieres_mobiliensis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	20<length<100	D-L-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tripos_dens	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	length>100	DN-XL-5CE	autotroph	autotroph	autotroph	autotroph	HAB_non-toxigenic
+Tripos_furca	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	length>100	DN-XL-5CE	mixotroph	CM	engulfment	yes	HAB_non-toxigenic
+Tripos_fusus	Dinophyta	Dinophyceae	Dinoflagellates	Double cone	Elongated	length>100	DN-XL-17E	mixotroph	CM	engulfment	yes	HAB_non-toxigenic
+Tripos_gracilis	Dinophyta	Dinophyceae	Dinoflagellates	Cylinder	Elongated	length>100	DN-XL-12CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tripos_teres	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	length>100	DN-XL-5CE	mixotroph	CM	not recorded	not recorded	no_harmful
+Tripos_brevis	Dinophyta	Dinophyceae	Dinoflagellates	Ellipsoid	Elongated	length>100	DN-XL-5CE	autotroph	autotroph	autotroph	autotroph	no_harmful
+Tropidoneis	Ochrophyta	Mediophyceae	Diatoms	Prism elliptic base	Elongated	length>100	D-XL-10E	autotroph	autotroph	autotroph	autotroph	no_harmful
+Willea_rectangularis	Chlorophyta	Trebouxiophyceae	Others	Cube	No	10>length	O-S-3	autotroph	autotroph	autotroph	autotroph	no_harmful
+Woronichinia	Cyanobacteria	Cyanophyceae	Others	Prolate spheroid	No	20<length<100	O-L-13	autotroph	autotroph	autotroph	autotroph	no_harmful
+Zygnema	Charophyta	Zygnematophyceae	Others	Cylinder	Elongated	20<length<100	O-L-12E	autotroph	autotroph	autotroph	autotroph	no_harmful
