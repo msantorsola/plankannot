@@ -142,17 +142,23 @@ annotate_midori2_with_dbs <- function(taxon_path,
                                       db_dir     = "inst/db/",
                                       output_dir = "annotated_results/") {
 
-    stopifnot(file.exists(taxon_path))
-    stopifnot(length(db_names) > 0)
+    if (!file.exists(taxon_path)) {
+        stop("File .taxon non trovato: ", taxon_path, call. = FALSE)
+    }
+
+    if (length(db_names) == 0) {
+        stop("`db_names` deve contenere almeno un database.", call. = FALSE)
+    }
 
     input_name <- file_path_sans_ext(basename(taxon_path))
 
     # Step 1: parsing
-    message("\n=== Step 1: Parsing MIDORI2 .taxon ===")
+    message("\n=== Dataset: ", basename(taxon_path), " ===")
+    message("=== Step 1: Parsing MIDORI2 .taxon ===")
     midori2 <- parse_midori2_taxon(taxon_path)
 
     # Step 2: annotazione per ogni db
-    message("\n=== Step 2: Annotazione ===")
+    message("=== Step 2: Annotazione ===")
 
     results <- lapply(db_names, function(db_name) {
 
@@ -164,12 +170,17 @@ annotate_midori2_with_dbs <- function(taxon_path,
                 db_dir     = db_dir
             )
 
-            out_dir  <- file.path(output_dir, db_name)
+            out_dir <- file.path(output_dir, db_name)
             dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
-            out_file <- file.path(out_dir,
-                                  paste0(input_name, "_", db_name, "_annotated.tsv"))
+
+            out_file <- file.path(
+                out_dir,
+                paste0(input_name, "_", db_name, "_annotated.tsv")
+            )
+
             write_tsv(annotated, out_file)
             message("  Salvato: ", out_file)
+
             "ok"
 
         }, error = function(e) {
@@ -189,14 +200,89 @@ annotate_midori2_with_dbs <- function(taxon_path,
 
 
 # ============================================================
+# 5. ANNOTAZIONE DI TUTTI I FILE *.taxon IN UNA CARTELLA
+# ============================================================
+
+annotate_all_midori2_taxon <- function(input_dir = ".",
+                                       db_names,
+                                       db_dir     = "inst/db/",
+                                       output_dir = "annotated_results/",
+                                       recursive  = FALSE) {
+
+    if (!dir.exists(input_dir)) {
+        stop("Cartella di input non trovata: ", input_dir, call. = FALSE)
+    }
+
+    taxon_files <- list.files(
+        path       = input_dir,
+        pattern    = "\\.taxon$",
+        full.names = TRUE,
+        recursive  = recursive,
+        ignore.case = TRUE
+    )
+
+    if (length(taxon_files) == 0) {
+        stop(
+            "Nessun file *.taxon trovato nella cartella: ",
+            normalizePath(input_dir, winslash = "/", mustWork = FALSE),
+            call. = FALSE
+        )
+    }
+
+    message(
+        "\nTrovati ", length(taxon_files),
+        " file *.taxon in: ",
+        normalizePath(input_dir, winslash = "/", mustWork = FALSE)
+    )
+
+    all_results <- lapply(taxon_files, function(taxon_path) {
+
+        tryCatch(
+            annotate_midori2_with_dbs(
+                taxon_path = taxon_path,
+                db_names   = db_names,
+                db_dir     = db_dir,
+                output_dir = output_dir
+            ),
+            error = function(e) {
+                message(
+                    "\nERRORE durante l'elaborazione di ",
+                    basename(taxon_path),
+                    ": ",
+                    e$message
+                )
+
+                tibble::tibble(
+                    dataset  = basename(taxon_path),
+                    database = NA_character_,
+                    status   = paste("error:", e$message)
+                )
+            }
+        )
+    })
+
+    summary <- dplyr::bind_rows(all_results)
+
+    summary_file <- file.path(output_dir, "midori2_annotation_summary.tsv")
+    dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
+    write_tsv(summary, summary_file)
+
+    message("\nRiepilogo salvato: ", summary_file)
+
+    summary
+}
+
+
+# ============================================================
 # ESECUZIONE
 # ============================================================
 
-result <- annotate_midori2_with_dbs(
-    taxon_path = "MIDORI2_UNIQ_NUC_GB257_CO1_MOTHUR.taxon",
+result <- annotate_all_midori2_taxon(
+    input_dir  = ".",
     db_names   = c("copepoda", "habs", "mixoplankton", "phytoplankton"),
     db_dir     = "inst/db/",
-    output_dir = "annotated_results/"
+    output_dir = "annotated_results/",
+    recursive  = FALSE
 )
 
 print(result)

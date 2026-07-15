@@ -1,20 +1,28 @@
 Package: plankannot
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Functional Annotation of Plankton Taxonomic Datasets
 Version: 0.1.0
-Author: Who wrote it
+Author: Mariangela Santorsola
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Provides tools for parsing and functionally annotating
+    plankton taxonomic datasets using curated ecological databases.
+    Taxonomic records can be matched against functional information
+    for groups including phytoplankton, mixoplankton, harmful algal
+    bloom taxa, and copepods
+License: MIT + file LICENSE
+URL: https://github.com/msantorsola/plankannot
+BugReports: https://github.com/msantorsola/plankannot/issues
 Encoding: UTF-8
-LazyData: true
-Suggests: 
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.1.0)
 Imports:
+    dplyr,
     readr,
     stringr,
-    magrittr,
+    tibble,
     tools
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
