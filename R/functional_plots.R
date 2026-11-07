@@ -76,7 +76,7 @@ plot_functional_profiles <- function(
             ggplot2::geom_col(width = 0.85) +
             ggplot2::scale_y_continuous(labels = function(x) paste0(round(100 * x), "%"), limits = c(0, 1)) +
             ggplot2::labs(
-                title = paste0(db_name, " — ", trait),
+                title = paste0(db_name, " - ", trait),
                 x = NULL, y = "Relative abundance", fill = trait
             ) +
             ggplot2::theme_minimal(base_size = 11) +
@@ -119,7 +119,7 @@ plot_functional_profiles <- function(
                 name = "Abbondanza\nrelativa"
             ) +
             ggplot2::labs(
-                title = paste0(db_name, " — ", trait),
+                title = paste0(db_name, " - ", trait),
                 x = NULL,
                 y = trait,
                 subtitle = "Le celle senza rilevamento sono rappresentate come zero"

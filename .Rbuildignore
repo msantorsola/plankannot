@@ -1,4 +1,7 @@
-^.*\\.Rproj$\n^\\.Rproj\\.user$\n^\\.github$\n^\\.positai$\n^\\.claude$\n^\\.Rhistory$\n^input_Said_28_october\\.xlsx$\n
+^.*\.Rproj$
 ^\.Rproj\.user$
+^\.github$
 ^\.positai$
 ^\.claude$
+^\.Rhistory$
+^input_Said_28_october\.xlsx$
