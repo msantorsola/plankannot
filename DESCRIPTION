@@ -1,0 +1,38 @@
+Package: plankannot
+Type: Package
+Title: Functional Annotation of Plankton Taxonomic Datasets
+Version: 0.3.1
+Authors@R:
+    c(
+      person("Said", "Ahmed", role = "aut"),
+      person("Mariangela", "Santorsola",
+             email = "mariangela.santorsola@unipv.it",
+             role = c("aut", "cre"))
+    )
+Description: Provides tools for annotating user-prepared plankton taxonomy
+    tables against bundled functional databases and generating abundance-
+    weighted stacked bar plots and heatmaps for selected functional traits.
+    Taxonomic assignments are supplied by the user. The package performs
+    name-based matching against curated database records and does not infer
+    taxonomic assignments.
+License: MIT + file LICENSE
+URL: https://github.com/msantorsola/plankannot
+BugReports: https://github.com/msantorsola/plankannot/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.1.0)
+Imports:
+    dplyr,
+    ggplot2,
+    readr,
+    readxl,
+    tibble,
+    tidyr,
+    tools,
+    utils,
+    writexl
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

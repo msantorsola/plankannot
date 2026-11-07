@@ -1,0 +1,11 @@
+bibentry(
+  bibtype = "Manual",
+  title = "plankannot: Functional Annotation of Plankton Taxonomic Datasets",
+  author = c(
+    person(given = "Said", family = "Ahmed"),
+    person(given = "Mariangela", family = "Santorsola")
+  ),
+  year = "2026",
+  note = "R package version 0.3.1",
+  url = "https://github.com/msantorsola/plankannot"
+)
